@@ -1,145 +1,31 @@
 ---
-title: Manuals
-description: Learn how to install, set up, configure, and use Docker products with this collection of user guides
-keywords: docker, docs, manuals, products, user guides, how-to
-# hard-code the URL of this page
-url: /manuals/
-layout: wide
-params:
-  icon: description
-  sidebar:
-    groups:
-      - Open source
-      - AI
-      - Products
-      - Platform
-      - Enterprise
-  notoc: true
-  open-source:
-  - title: Docker Build
-    description: Build and ship any application anywhere.
-    icon: build
-    link: /build/
-  - title: Docker Engine
-    description: The industry-leading container runtime.
-    icon: developer_board
-    link: /engine/
-  - title: Docker Compose
-    description: Define and run multi-container applications.
-    icon: /icons/Compose.svg
-    link: /compose/
-  - title: Testcontainers
-    description: Run containers programmatically in your preferred programming language.
-    icon: /icons/Testcontainers.svg
-    link: /testcontainers/
-  - title: Docker Agent
-    description: The open-source multi-agent solution to assist you in your tasks.
-    icon: /icons/cagent.svg
-    link: /ai/docker-agent
-  ai:
-  - title: Gordon
-    description: Streamline your workflow and get the most out of the Docker ecosystem with your personal AI assistant.
-    icon: note_add
-    link: /ai/gordon/
-  - title: Docker Model Runner
-    description: View and manage your local models.
-    icon: /icons/models.svg
-    link: /ai/model-runner/
-  - title: MCP Catalog and Toolkit
-    description: Augment your AI workflow with MCP servers.
-    icon: /icons/toolkit.svg
-    link: /ai/mcp-catalog-and-toolkit/
-  products:
-  - title: Docker Desktop
-    description: Your command center for container development.
-    icon: /icons/Whale.svg
-    link: /desktop/
-  - title: Docker Hardened Images
-    description: Secure, minimal images for trusted software delivery.
-    icon: /icons/dhi.svg
-    link: /dhi/
-  - title: Docker Offload
-    description: Build and run containers in the cloud.
-    icon: cloud
-    link: /offload/
-  - title: Build Cloud
-    description: Build your images faster in the cloud.
-    icon: /icons/logo-build-cloud.svg
-    link: /build-cloud/
-  - title: Docker Hub
-    description: Discover, share, and integrate container images.
-    icon: hub
-    link: /docker-hub/
-  - title: Docker Scout
-    description: Image analysis and policy evaluation.
-    icon: /icons/Scout.svg
-    link: /scout/
-  - title: Docker Extensions
-    description: Customize your Docker Desktop workflow.
-    icon: extension
-    link: /extensions/
-  - title: Testcontainers Cloud
-    description: Run integration tests, with real dependencies, in the cloud.
-    icon: package_2
-    link: https://testcontainers.com/cloud/docs/
-  platform:
-  - title: Administration
-    description: Centralized observability for companies and organizations.
-    icon: admin_panel_settings
-    link: /admin/
-  - title: Billing
-    description: Manage billing and payment methods.
-    icon: payments
-    link: /billing/
-  - title: Accounts
-    description: Manage your Docker account.
-    icon: account_circle
-    link: /accounts/
-  - title: Security
-    description: Security guardrails for both administrators and developers.
-    icon: lock
-    link: /security/
-  - title: Subscription
-    description: Commercial use licenses for Docker products.
-    icon: card_membership
-    link: /subscription/
-  enterprise:
-  - title: Deploy Docker Desktop
-    description: Deploy Docker Desktop at scale within your company
-    icon: download
-    link: /enterprise/enterprise-deployment/
----
+Maximising Property Value by Selecting the Right Janitorial Partners
+For commercial property managers, the preservation of asset value is a primary directive that influences every operational decision. The physical condition of a building is the most immediate indicator of its worth, impacting tenant retention, lease negotiations, and the overall prestige of the address. Entrusting the maintenance of premium commercial real estate to subpar contractors can lead to accelerated wear and tear on expensive finishes, ultimately depreciating the property's market value. Thoroughly evaluating and selecting top-tier [NYC office cleaning companies](https://www.sanmarbuildingservices.com/office-cleaning-nyc/) is therefore not merely a procurement task, but a vital asset management strategy. The right janitorial partner acts as the first line of defence against infrastructural decay, ensuring that the property remains a highly desirable and lucrative investment for the long term.
 
-This section contains user guides on how to install, set up, configure, and use
-Docker products.
+The Financial Impact of Substandard Maintenance
 
-## Open source
+When building maintenance is compromised by cost-cutting measures or inadequate service providers, the financial repercussions extend far beyond the immediate savings on a monthly invoice. Substandard cleaning practices allow abrasive dirt and grit to accumulate on hard floors, permanently damaging expensive marble, granite, or hardwood surfaces. In carpets, unextracted soil degrades the structural fibres, necessitating costly and premature replacements. Furthermore, poorly maintained restrooms and common areas frequently lead to plumbing issues and the degradation of fixtures. Over time, these seemingly minor instances of neglect compound into massive capital expenditure requirements. By failing to invest in high-quality preventative maintenance, property owners inadvertently accelerate the depreciation of their physical assets and severely impact their long-term financial returns.
 
-Open source development and containerization technologies.
+Evaluating Expertise in Hard Surface and Flooring Care
 
-{{< grid items=open-source >}}
+A critical component in selecting a janitorial partner is assessing their specific expertise in managing diverse and high-value architectural finishes. Modern commercial buildings feature a complex array of surfaces, each requiring specialised chemical treatments and handling protocols. Applying the wrong pH-balanced solution to natural stone can cause irreversible etching, while incorrect buffing techniques can ruin protective floor sealants. Property managers must rigorously interrogate potential vendors regarding their training programmes, their understanding of material sciences, and their proven track record in hard surface preservation. A reputable service provider will confidently articulate their methodologies for maintaining everything from delicate glass facades to high-traffic terrazzo flooring, ensuring that every architectural element retains its original lustre and structural integrity.
 
-## AI
+The Role of Preventative Maintenance in Tenant Retention
 
-All the Docker AI tools in one easy-to-access location.
+In a competitive commercial real estate market, tenant satisfaction is paramount to maintaining high occupancy rates and securing lucrative lease renewals. High-calibre tenants expect a pristine, safe, and impeccably managed environment that reflects their own corporate standards. When common areas, lobbies, and shared facilities begin to show signs of neglect, tenant confidence in the property management inevitably wanes. A proactive cleaning partner focuses on preventative maintenance, identifying and addressing potential issues—such as lingering odours or minor wear and tear—before they become noticeable grievances for the occupants. This meticulous attention to detail fosters a premium tenant experience, building a strong reputation for the property and significantly reducing the costly turnover associated with dissatisfied leaseholders.
 
-{{< grid items=ai >}}
+Assessing Compliance, Insurance, and Liability
 
-## Products
+Partnering with an external vendor to operate within your building introduces a layer of risk that must be carefully managed through strict compliance and liability assessments. It is imperative that property managers verify that any chosen cleaning contractor carries comprehensive liability insurance and robust worker’s compensation coverage. This protects the property owner from potential lawsuits arising from workplace accidents or accidental property damage that may occur during the execution of cleaning duties. Additionally, the vendor must demonstrate strict adherence to occupational health and safety regulations, including the proper handling and storage of chemical agents. Ensuring complete regulatory compliance and adequate insurance coverage is an essential step in mitigating operational risks and protecting the asset's overarching financial stability.
 
-End-to-end developer solutions for innovative teams.
+Establishing Measurable Performance Metrics
 
-{{< grid items=products >}}
+To ensure a long-term, successful partnership, it is essential to move beyond vague promises and establish clear, quantifiable metrics for evaluating the cleaning vendor's performance. Service Level Agreements (SLAs) should outline specific standards for cleanliness, response times for emergency spills, and the frequency of deep-cleaning tasks. Property managers should implement regular, structured audits to objectively measure the contractor’s adherence to these agreed-upon standards. By establishing key performance indicators (KPIs), both parties have a transparent framework for accountability and continuous improvement. This data-driven approach allows management to address deficiencies proactively, ensuring that the janitorial services consistently align with the strategic goal of maximising the property's pristine condition and enduring market value.
 
-## Platform
+Conclusion
 
-Documentation related to the Docker platform, such as administration and
-subscription management.
+The selection of a commercial cleaning vendor is a strategic decision that directly influences the longevity and profitability of a real estate asset. By prioritising expertise, stringent compliance, and proactive maintenance, property managers can safeguard their buildings against premature depreciation. A well-maintained property not only commands premium market rates but also ensures enduring tenant satisfaction.
 
-{{< grid items=platform >}}
+Call to Action
 
-## Enterprise
-
-Targeted at IT administrators with help on deploying Docker Desktop at scale with configuration guidance on security related features.
-
-{{< grid items=enterprise >}}
+Protect your commercial real estate investment with superior maintenance solutions designed to preserve asset value and enhance tenant satisfaction. Contact our experts today to discuss a comprehensive facility management strategy tailored to your property.
